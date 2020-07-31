@@ -1,6 +1,6 @@
 # hello-world
 This is my first repository.
 
-Hi, github
+Hi, github!
 
 When you first contact GitHub, please advise.
